@@ -10,4 +10,5 @@ Project is divided into following types of layers according to their role and pu
 4. POJO (Plain Old Java Objects) - It contains all the classes which hold the data coming from the database or to be stored in the databse. Also called as DTO (Data Transfer Object).
 
 Java's API Swing is used for GUI development.
+
 jar files for Java Database Connectivity (Oracle) and bar code generation are also mentioned.
